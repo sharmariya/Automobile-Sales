@@ -17,7 +17,6 @@ The dataset includes multiple attributes such as:
 - **Product Details**: Vehicle Brand, Model, Fuel Type, and Price Range.
 
 ## Skills Demonstrated
-- **SQL**: Data extraction, transformation, and filtering.
 - **Tableau**: Creating interactive dashboards and visualizing sales trends.
 - **Predictive Analysis**: Identifying seasonality and forecasting future sales.
 
